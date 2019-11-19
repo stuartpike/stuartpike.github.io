@@ -4,9 +4,9 @@ title:  "Vagrant Dev System"
 date:   2019-11-14 21:57:22 +0000
 categories: vagrant
 ---
-I have limited resources, and I've rebuilt my laptop many times in the past to accomodate project requirements. This time I've decided to invest time in learning to use hashicorp [`Vagrant`](https://www.vagrantup.com/).
+I have limited resources, and I've rebuilt my laptop many times in the past to accomodate project requirements. This time I've decided to invest time in learning to use hashicorp [`Vagrant`](https://www.vagrantup.com/){:target="_blank"}.
 
-If you don't know what `Vagrant` is please headover to [vagrantup.com](vagrantup.com) and then come back to see how I've used it.
+If you don't know what `Vagrant` is please headover to [vagrantup.com](https://vagrantup.com/){:target="_blank"} and then come back to see how I've used it.
 
 Oh, by the way this blog is edited using a vagrant implementation.
 
