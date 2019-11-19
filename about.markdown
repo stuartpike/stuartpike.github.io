@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi there, I'm Stuart Pike currently working as an Infrastructure Engineer at [ThinkMoney Limited](www.thinkmoney.co.uk).
+Hi there, I'm Stuart Pike currently working as an Infrastructure Engineer at [ThinkMoney Limited](https://www.thinkmoney.co.uk/).
 
 Previous roles have always been Infrastructure driven positions:
 - [The Guinness Partnership](https://www.guinnesspartnership.com/)
